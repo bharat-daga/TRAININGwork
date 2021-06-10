@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(12, 74, 243);
+    text-align: center;
+}
+
+.heading {
+    border: 3px solid black;
+    width: 450px;
+    height: 75px;
+    text-align: center;
+    font-size: 60px;
+    margin-top: 100px;
+    margin-left: 500px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(247, 137, 164);
+    border-radius:10px;
+}
+
+table,
+th,
+td {
+    border: 5px solid rgb(231, 71, 191);
+    float: left;
+    background-color: rgb(77, 70, 70)
+}
+
+input[type=text] {
+    width: 350px;
+    height: 50px;
+    font-size: large;
+}
+
+.value {
+    background-color: black;
+    color: white;
+    width: 80px;
+    height: 60px;
+}
+
+input.value:hover {
+    background-color: grey;
+}
+
+input[type=button] {
+    background-color: black;
+    color: white;
+    width: 80px;
+    height: 60px;
+}
+
+table {
+    margin-top: 100px;
+    margin-bottom: 400px;
+    margin-left: 500px;
+    margin-right: 500px;
+    text-align: center;
+}
