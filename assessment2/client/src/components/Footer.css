@@ -1,0 +1,11 @@
+footer {
+  text-align: center;
+  background-color: rgb(80, 136, 182);
+  height: 100px;
+  padding: 30px;
+}
+.contact {
+  color: azure;
+  margin: 30px;
+  font-size: 30px;
+}
